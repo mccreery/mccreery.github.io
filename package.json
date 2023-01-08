@@ -1,0 +1,6 @@
+{
+    "name": "mccreery.github.io",
+    "version": "0.1.0",
+    "type": "module",
+    "main": "src/build.js"
+}
